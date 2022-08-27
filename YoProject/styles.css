@@ -1,0 +1,120 @@
+html {
+    background-color:rgb(235, 235, 235)
+}
+
+body {
+    display: block;
+    margin-top: 50px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(255, 147, 6);
+    font-size: 46px;
+    margin: 0px;
+}
+
+h2 {
+    text-align: center;
+    color: rgb(119, 59, 18);
+    font-size: 27px;
+    margin: 0px auto;
+}
+
+h1,
+ h2 {
+    text-transform: uppercase;
+}
+
+table {
+    margin: 0 auto;
+    width: 1000px;
+    margin-top: 35px;
+    color:rgb(119, 59, 18);
+}
+
+th {
+    font-size: 14px;
+    background-color: rgb(255, 147, 6);
+    height: 40px;
+    text-transform: uppercase;
+}
+
+td {
+    text-align: center;
+    background-color: rgb(209, 209, 209);
+    font-size: 13px;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+    border-radius: 60px;
+}
+
+.nazev,
+ .popis,
+  .awards {
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    text-transform: uppercase;
+}
+
+.cena {
+    letter-spacing: 0px;
+    word-spacing: 1px;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.space {
+    width: 150px;
+}
+
+sup {
+    font-size: 8px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 35px;
+    text-transform: uppercase;
+    font-size: 11px;
+}
+
+span {
+    color: rgb(255, 147, 6);
+    font-weight: 700;
+}
+
+a {
+    text-decoration: none;
+}
+
+.koupit a:hover {
+    background-color: rgb(255, 147, 6);
+}
+
+.koupit a {
+    background-color: rgb(221, 221, 221);
+    padding: 12px;
+    border-radius: 40px;
+    color: black;
+    font-size: 12px;
+}
+
+p {
+    margin: 0px;
+}
+
+.cena p {
+    margin: 25px;
+}
+
+.koupit {
+    font-weight: 400;
+}
+
+
